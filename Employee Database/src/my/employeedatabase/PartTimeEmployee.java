@@ -8,7 +8,7 @@ package my.employeedatabase;
 /**
  * Subclass of the Employee class for part time employees.
  *
- * @author Yi Mang Yang
+ * @author Jack Wang
  * @author Max Xiong
  * @version 2.0 Dec 19, 2014.
  */
