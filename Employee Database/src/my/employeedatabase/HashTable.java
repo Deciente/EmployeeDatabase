@@ -11,7 +11,7 @@ import java.util.ArrayList;
  * Class for the hash table so employees can be stored in it through open
  * hashing/closed addressing.
  *
- * @author Yi Mang Yang
+ * @author Jack Wang
  * @author Max Xiong
  * @version 2.0 Dec 19, 2014.
  */
