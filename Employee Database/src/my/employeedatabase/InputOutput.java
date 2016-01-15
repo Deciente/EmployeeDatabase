@@ -17,7 +17,7 @@ import java.io.IOException;
  * Class for file input and output. Able to store the employee data from a hash
  * table in a file and load the data from a file into a hash table.
  *
- * @author Yi Mang Yang
+ * @author Jack Wang
  * @author Max Xiong
  * @version 2.0 Dec 19, 2014.
  */
