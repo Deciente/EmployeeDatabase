@@ -13,7 +13,7 @@ import javax.swing.table.DefaultTableModel;
 /**
  * Graphical user interface for the employee database
  *
- * @author Yi Mang Yang
+ * @author Jack Wang
  * @author Max Xiong
  * @version 2.0 Dec 19, 2014.
  */
