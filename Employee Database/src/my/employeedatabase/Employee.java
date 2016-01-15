@@ -8,7 +8,7 @@ package my.employeedatabase;
 /**
  * Abstract class for the employee. Holds the common employee attributes.
  *
- * @author Yi Mang Yang
+ * @author Jack Wang
  * @author Max Xiong
  * @version 2.0 Dec 19, 2014.
  */
